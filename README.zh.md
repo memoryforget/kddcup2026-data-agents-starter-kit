@@ -200,7 +200,7 @@ artifacts/runs/<run_id>/summary.json
       </td>
       <td align="center">
         <img
-          src="https://raw.githubusercontent.com/BugMaker-Boyan/kddcup2026-data-agents-starter-kit/master/assets/HKUSTGZ_DIAL.jpg"
+          src="https://dataagent.top/HKUSTGZ_DIAL.jpg"
           alt="WeChat official account QR code"
           width="144"
         />
